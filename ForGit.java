@@ -1,8 +1,8 @@
 class ForGit{
     public static void main(String[] args) {
-	for(int i = 0; i < 8: i++){
-        	System.out.println("Hello git;");
-			
-	}
+        System.out.println("Hello git;");
+		System.out.println("Hello again;");
+		System.out.println("And again;");
+
     }
 }
